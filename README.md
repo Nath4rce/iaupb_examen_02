@@ -2,5 +2,5 @@
 
 El examen contiene los siguientes archivos:
 
-Archivo ipynb
+Archivo ipynb,
 Archivo .gitignore
